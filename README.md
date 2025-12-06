@@ -5,10 +5,12 @@ Analyze customer purchase patterns, identify key customer segments, and evaluate
 
 ## Tasks by Tool 
 A. Excel 
+
 Clean data, remove duplicates, fix missing values, and calculate new metrics such as 
 Customer Tenure and Total Spend. 
 
 B. SQL 
+
 Write queries to analyze customer segments, repeat customers, and campaign 
 effectiveness. 
 1. Top customers by total spend 
@@ -17,4 +19,5 @@ effectiveness.
 4. Spending by region and category
 
 C. Tableau 
+
 Build a Customer Insights Dashboard with at least 4 views:
