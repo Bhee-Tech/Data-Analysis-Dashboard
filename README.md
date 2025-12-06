@@ -37,3 +37,16 @@ https://docs.google.com/spreadsheets/d/1xw3-qepPfqnc9EWY0HLVvm34nLeM5PKV/edit?us
 ##Dashboard
 
 https://public.tableau.com/views/Capstoneproject_17622975059770/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+##Dashboard Photo
+
+![Dashboard (2)](https://github.com/user-attachments/assets/dea07b12-4115-45d4-8c42-3f72263985b1)
+
+##SQL Photo
+
+![screenshot](https://github.com/user-attachments/assets/db4aafd7-8b2f-4fd4-b358-9e8fba2b7928)
+
+
+
+
