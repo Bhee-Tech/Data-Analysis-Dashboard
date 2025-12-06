@@ -26,6 +26,13 @@ Build a Customer Insights Dashboard with at least 4 views:
 
 https://docs.google.com/spreadsheets/d/1z6GbMlQyk7W9WZ9vcQhH1FRwgKcSBdzN/edit?usp=sharing&ouid=108312096925450129300&rtpof=true&sd=true
 
+##Excel Sheet2
+
+https://docs.google.com/spreadsheets/d/1iGcIKQk4E-eQxeZ8CEI4ZDtYxVZr-wrK/edit?usp=sharing&ouid=108312096925450129300&rtpof=true&sd=true
+
+##Excel Sheet3
+
+https://docs.google.com/spreadsheets/d/1xw3-qepPfqnc9EWY0HLVvm34nLeM5PKV/edit?usp=sharing&ouid=108312096925450129300&rtpof=true&sd=true
 ##Dashboard
 
 https://public.tableau.com/views/Capstoneproject_17622975059770/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
