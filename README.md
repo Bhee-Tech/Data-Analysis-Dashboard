@@ -21,3 +21,7 @@ effectiveness.
 C. Tableau 
 
 Build a Customer Insights Dashboard with at least 4 views:
+
+##Dashboard
+
+https://public.tableau.com/views/Capstoneproject_17622975059770/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
