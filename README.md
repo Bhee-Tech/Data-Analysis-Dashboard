@@ -47,6 +47,17 @@ https://public.tableau.com/views/Capstoneproject_17622975059770/Dashboard1?:lang
 
 ![screenshot](https://github.com/user-attachments/assets/db4aafd7-8b2f-4fd4-b358-9e8fba2b7928)
 
+##SQL Photo2
+
+![screenshot2](https://github.com/user-attachments/assets/dce27496-fb76-4777-95df-9d1bd6e10e94)
+
+##SQL Photo3
+
+![screenshot3](https://github.com/user-attachments/assets/fcd891ed-9296-4fc9-9258-c952f802706e)
 
 
-
+�
+## Deliverables 
+1. Cleaned Excel file (with calculations)  
+2. SQL scripts or screenshots 
+3. Tableau dashboard (packaged workbook or link)
